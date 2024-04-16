@@ -15,9 +15,25 @@ namespace Connection_Tables
             "database=trees_zaimov";
         private void Form1_Load(object sender, EventArgs e)
         {
-            MySqlConnection connect=new MySqlConnection(connstr);
-            if (connect.State==0) connect.Open();
-            MessageBox.Show("Connection now opened!");
+
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            MySqlConnection connect = new MySqlConnection(connstr);
+            if (connect.State == 0) connect.Open();
+            MessageBox.Show("Connection new opened!");
+            string insertSQL = "INSERT INTO trees_zaimov.rod" +
+                            "(`name`,`name_bg`)" +
+                            "VALUES (@name,@name_bg)";
+            MySqlCommand query = new MySqlCommand(insertSQL, connect);
+
+            query.Parameters.AddWithValue("@name",txt1.Text);
+            query.Parameters.AddWithValue("@name_bg", txt2.Text);
+
+            query.ExecuteNonQuery();
+            MessageBox.Show("Dobavih");
+            connect.Close();
         }
     }
 }

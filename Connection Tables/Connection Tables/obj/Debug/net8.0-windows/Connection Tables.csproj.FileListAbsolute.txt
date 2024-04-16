@@ -29,3 +29,4 @@ C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-win
 C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.pdb
 C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.genruntimeconfig.cache
 C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\ref\Connection Tables.dll
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.sourcelink.json

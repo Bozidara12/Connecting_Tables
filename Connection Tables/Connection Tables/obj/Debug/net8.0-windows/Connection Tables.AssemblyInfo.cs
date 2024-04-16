@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Connection Tables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a755100a7a67d701578213b16c2086f4113b23ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Connection Tables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Connection Tables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

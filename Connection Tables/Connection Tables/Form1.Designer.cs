@@ -75,6 +75,7 @@
             btn1.TabIndex = 4;
             btn1.Text = "Insert into rod";
             btn1.UseVisualStyleBackColor = true;
+            btn1.Click += btn1_Click;
             // 
             // Form1
             // 
