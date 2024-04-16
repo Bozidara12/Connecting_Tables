@@ -1,0 +1,16 @@
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\bin\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.exe
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\bin\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.deps.json
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\bin\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.runtimeconfig.json
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\bin\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.dll
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\bin\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.pdb
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.Form1.resources
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.csproj.GenerateResource.cache
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.AssemblyInfoInputs.cache
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.AssemblyInfo.cs
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.csproj.CoreCompileInputs.cache
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.dll
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\refint\IzvajdaneStepenuvaneDelenieSubirane.dll
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.pdb
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\IzvajdaneStepenuvaneDelenieSubirane.genruntimeconfig.cache
+C:\Божидара11д\IzvajdaneStepenuvaneDelenieSubirane\obj\Debug\net8.0-windows\ref\IzvajdaneStepenuvaneDelenieSubirane.dll

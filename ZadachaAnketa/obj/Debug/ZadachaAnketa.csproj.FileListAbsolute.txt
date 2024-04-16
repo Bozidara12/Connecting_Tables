@@ -1,0 +1,10 @@
+C:\Божидара11д\ZadachaAnketa\bin\Debug\ZadachaAnketa.exe.config
+C:\Божидара11д\ZadachaAnketa\bin\Debug\ZadachaAnketa.exe
+C:\Божидара11д\ZadachaAnketa\bin\Debug\ZadachaAnketa.pdb
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.csproj.AssemblyReference.cache
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.Form1.resources
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.Properties.Resources.resources
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.csproj.GenerateResource.cache
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.csproj.CoreCompileInputs.cache
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.exe
+C:\Божидара11д\ZadachaAnketa\obj\Debug\ZadachaAnketa.pdb

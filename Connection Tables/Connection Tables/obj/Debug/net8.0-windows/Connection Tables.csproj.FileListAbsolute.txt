@@ -1,0 +1,31 @@
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Connection Tables.exe
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Connection Tables.deps.json
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Connection Tables.runtimeconfig.json
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Connection Tables.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Connection Tables.pdb
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Божидара11д\Connection Tables\Connection Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.csproj.AssemblyReference.cache
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection_Tables.Form1.resources
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.csproj.GenerateResource.cache
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.AssemblyInfoInputs.cache
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.AssemblyInfo.cs
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.csproj.CoreCompileInputs.cache
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connecti.17F5DFBA.Up2Date
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.dll
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\refint\Connection Tables.dll
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.pdb
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\Connection Tables.genruntimeconfig.cache
+C:\Божидара11д\Connection Tables\Connection Tables\obj\Debug\net8.0-windows\ref\Connection Tables.dll
